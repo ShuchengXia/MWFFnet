@@ -5,6 +5,7 @@ Low-light image enhancement (LLIE) aims to enhance the visibility and quality of
 enhancing the network’s ability to understand intricate image structures. To further improve the enhancement quality, we develop a cross-layer attentional feature fusion (CAFF) module that effectively integrates features from both the encoder and decoder. This mechanism enables the network to leverage contextual information across various levels of representation, resulting in a more comprehensive understanding of the images. Extensive experiments demonstrate that with a reasonable model size, the proposed MWFFnet outperforms several state-of-the-art methods.
 ## Overview ##
 <img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/overall.png">
+
 ## Inference ##
 <img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/LOLv1.png" title="LOLv1测试结果">
 <img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/LOLv2.png" title="LOLv2测试结果">
