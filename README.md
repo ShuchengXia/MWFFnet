@@ -7,5 +7,5 @@ enhancing the network’s ability to understand intricate image structures. To f
 <img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/overall.png">
 
 ## Inference ##
-<img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/LOLv1.png" title="LOLv1测试结果">
-<img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/LOLv2.png" title="LOLv2测试结果">
+<img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/test_LOLv1.png" title="LOLv1测试结果">
+<img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/test_LOLv2.png" title="LOLv2测试结果">
