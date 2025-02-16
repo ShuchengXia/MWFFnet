@@ -6,8 +6,23 @@ enhancing the network’s ability to understand intricate image structures. To f
 ## Overview ##
 <img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/overall.png">
 
+## Test ##
+Please see the Readme file in Code/Test 
+
 ## Inference ##
-### LOLv1测试结果 ###
-<img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/test_LOLv1.png" title="LOLv1测试结果">\
-### LOLv2测试结果 ###
-<img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/test_LOLv2.png" title="LOLv2测试结果">
+### LOLv1&LOLv2测试结果 ###
+<img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/test_LOLv1.png" width="427" height="442"><img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/test_LOLv2.png" width="427" height="442">
+
+## Citation ##
+If you find our repo useful for your research, please consider citing this paper and our previous work
+```
+ARTICLE{PRNet,
+     author={Ling, Mingyang and Chang, Kan and Huang, Mengyuan and Li, Hengxin and Dang, Shuping and Li Baoxin},
+     journal={IEEE Transactions on Computational Imaging},
+     title={PRNet: Pyramid Restoration Network for RAW Image Super-Resolution},
+     year={2024},
+     volume={10},
+     pages={479-495},
+     doi={10.1109/TCI.2024.3374084}
+}
+```
