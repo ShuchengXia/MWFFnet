@@ -6,8 +6,7 @@ from collections import OrderedDict
 import cv2
 import numpy as np
 from src import utils
-# from models.DLEN_arch import DLEN
-from models.modules.DRSformer_N4 import DRSformer
+from models.modules.DRSformer import DRSformer
 from src.dataset import LoadImages_LOL
 from torch.utils.data import DataLoader
 
@@ -15,12 +14,12 @@ def get_args():
     parser = argparse.ArgumentParser(
         description='Converting from DLEN.')
     parser.add_argument('--model_dir', '-m',
-                        default='./result/20240205_231351/model_best.pth',
+                        default='./pretrained_model/model_best.pth',
                         help="Specify the directory of the trained model.",
                         dest='model_dir')
     parser.add_argument('--input_dir', '-i', help='Input image directory',
                         dest='input_dir',
-                        default='D:/韦新杰师兄工作/WTTN/dataset/LOLV1/our485/low/')    # G:/Dataset/eval15/low #G:/Dataset/LOL_v2/Test/Low
+                        default='dataset/LOLV1/our485/low/')    # G:/Dataset/eval15/low #G:/Dataset/LOL_v2/Test/Low
     parser.add_argument('--device', '-d', default='cuda',
                         help="Device: cuda or cpu.", dest='device')
     parser.add_argument('--output_dir',
