@@ -11,7 +11,7 @@ Please see the Readme file in Code/Test
 
 ## Inference ##
 ### LOLv1&LOLv2测试结果 ###
-<img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/test_LOLv1.png" width="427" height="442"><img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/test_LOLv2.png" width="427" height="442">
+<img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/test_LOLv1.png" width="426" height="442"><img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/test_LOLv2.png" width="426" height="442">
 
 ## Citation ##
 If you find our repo useful for your research, please consider citing this paper and our previous work
