@@ -10,19 +10,19 @@ enhancing the network’s ability to understand intricate image structures. To f
 Please see the README file in Code/Test 
 
 ## Inference ##
-### LOLv1&LOLv2测试结果 ###
+### test result on LOLv1&LOLv2 ###
 <img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/test_LOLv1.png" width="426" height="442"><img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/test_LOLv2.png" width="426" height="442">
 
 ## Citation ##
-If you find our repo useful for your research, please consider citing this paper and our previous work
+If you find our repo useful for your research, please consider citing this paper.
 ```
-ARTICLE{PRNet,
-     author={Ling, Mingyang and Chang, Kan and Huang, Mengyuan and Li, Hengxin and Dang, Shuping and Li Baoxin},
-     journal={IEEE Transactions on Computational Imaging},
-     title={PRNet: Pyramid Restoration Network for RAW Image Super-Resolution},
-     year={2024},
-     volume={10},
-     pages={479-495},
-     doi={10.1109/TCI.2024.3374084}
+@article{MWFFnet,
+  title={Multi-scale Wavelet Feature Fusion Network for Low-light Image Enhancement},
+  author={Wei, Ran and Wei, Xinjie and Xia, Shucheng and Chang, Kan and Ling, Mingyang and Nong, Jingxiang and Xu, Li},
+  journal={Computers \& Graphics},
+  volume={}
+  pages={},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
