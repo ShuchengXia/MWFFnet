@@ -21,7 +21,7 @@ If you find our repo useful for your research, please consider citing this paper
   author={Wei, Ran and Wei, Xinjie and Xia, Shucheng and Chang, Kan and Ling, Mingyang and Nong, Jingxiang and Xu, Li},
   journal={Computers \& Graphics},
   volume={}
-  pages={},
+  pages={104182},
   year={2025},
   publisher={Elsevier}
 }
