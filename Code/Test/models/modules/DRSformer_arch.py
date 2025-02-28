@@ -1,5 +1,3 @@
-# 模型的主结构，在之前懒得改名称了，后续自己更改
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
