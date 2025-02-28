@@ -1,1 +1,0 @@
-You can get the pretrained weights in [[Baidu Cloud Drive]](https://pan.baidu.com/s/152iCisgVN-GtJdQBxqPf0A?pwd=1234)or[[Google Cloud Drive]](https://drive.google.com/drive/folders/1AvzqRd8C6nAWJvS-vHYYi_iZYIS5-c51?usp=sharing)
