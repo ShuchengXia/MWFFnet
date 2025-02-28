@@ -7,10 +7,10 @@ enhancing the network’s ability to understand intricate image structures. To f
 <img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/overall.png">
 
 ## Test ##
-Please see the README file in Code/Test 
+Please see the README file in Code 
 
 ## Inference ##
-### test result on LOLv1&LOLv2 ###
+### test result on [LOLv1](https://drive.google.com/drive/folders/1IaS8MXpeAQRldUcRM2EtDAH3ZihElew3?usp=sharing)&[LOLv2](https://drive.google.com/file/d/1Ou9EljYZW8o5dbDCf9R34FS8Pd8kEp2U/view) ###
 <img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/test_LOLv1.png" width="426" height="442"><img src="https://github.com/ShuchengXia/MWFFnet/blob/main/images/test_LOLv2.png" width="426" height="442">
 
 ## Citation ##
